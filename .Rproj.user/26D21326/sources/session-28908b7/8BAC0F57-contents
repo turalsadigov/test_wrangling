@@ -1,0 +1,314 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.4.1",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "_extensions/r-wasm/live/_gradethis.qmd",
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.5.56",
+    "engines": ["jupyter"]
+  },
+  "packages": null,
+  "files": {
+    "_extensions/r-wasm/live/_extension.yml": {
+      "checksum": "4457c9e117aa4d105d1e10d6c91fbbdf"
+    },
+    "_extensions/r-wasm/live/_gradethis.qmd": {
+      "checksum": "38b0feff958432c6705f56c75f23e09a"
+    },
+    "_extensions/r-wasm/live/_knitr.qmd": {
+      "checksum": "2355fbe467604de3797adb11c632a153"
+    },
+    "_extensions/r-wasm/live/live.lua": {
+      "checksum": "f2092ce8d4b53d43bf0ae148518b1121"
+    },
+    "_extensions/r-wasm/live/resources/live-runtime.css": {
+      "checksum": "a19233fa4875bf0c11f289dc754038f2"
+    },
+    "_extensions/r-wasm/live/resources/live-runtime.js": {
+      "checksum": "17e68022cff3052921de1e0257c15266"
+    },
+    "_extensions/r-wasm/live/resources/pyodide-worker.js": {
+      "checksum": "b5f3ab20cb7ed1aa24081be308d8b5c5"
+    },
+    "_extensions/r-wasm/live/resources/tinyyaml.lua": {
+      "checksum": "f1a608fbbd606dd3f3bd6e7dc82da344"
+    },
+    "_extensions/r-wasm/live/templates/interpolate.ojs": {
+      "checksum": "46c4d3220628859dd5528aaaf05b8c2b"
+    },
+    "_extensions/r-wasm/live/templates/pyodide-editor.ojs": {
+      "checksum": "8fb0ea62e1268105db3b3cf2bee1e367"
+    },
+    "_extensions/r-wasm/live/templates/pyodide-evaluate.ojs": {
+      "checksum": "f85a0ed69ae2f59c3104adf8093bce0f"
+    },
+    "_extensions/r-wasm/live/templates/pyodide-exercise.ojs": {
+      "checksum": "58c201949ff7ccee4efeb1b2b083eafb"
+    },
+    "_extensions/r-wasm/live/templates/pyodide-setup.ojs": {
+      "checksum": "a240e5b3edd6f8fb71a57d5c8a94d622"
+    },
+    "_extensions/r-wasm/live/templates/webr-editor.ojs": {
+      "checksum": "d564e34c5f9f9ae5194e1d80700bd99e"
+    },
+    "_extensions/r-wasm/live/templates/webr-evaluate.ojs": {
+      "checksum": "790521d9b19a5e5b15859ea0dce2d4d0"
+    },
+    "_extensions/r-wasm/live/templates/webr-exercise.ojs": {
+      "checksum": "b577957f92d53b5777eb8db850fbe70e"
+    },
+    "_extensions/r-wasm/live/templates/webr-setup.ojs": {
+      "checksum": "72b1fa6bd356a52a05e8064a38483ce4"
+    },
+    "_extensions/r-wasm/live/templates/webr-widget.ojs": {
+      "checksum": "2b2faf7b749b0e2d7868bc4b8db484f3"
+    },
+    "data_wrangling_files/libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "data_wrangling_files/libs/quarto-contrib/live-runtime/live-runtime.css": {
+      "checksum": "a19233fa4875bf0c11f289dc754038f2"
+    },
+    "data_wrangling_files/libs/quarto-contrib/live-runtime/live-runtime.js": {
+      "checksum": "17e68022cff3052921de1e0257c15266"
+    },
+    "data_wrangling_files/libs/quarto-contrib/live-runtime/pyodide-worker.js": {
+      "checksum": "b5f3ab20cb7ed1aa24081be308d8b5c5"
+    },
+    "data_wrangling_files/libs/quarto-html/light-border.css": {
+      "checksum": "0b646459f2ef479b718a65b2157c44e4"
+    },
+    "data_wrangling_files/libs/quarto-html/popper.min.js": {
+      "checksum": "3a4a291ccf3f1ea0f82b641542fd3827"
+    },
+    "data_wrangling_files/libs/quarto-html/quarto-html.min.css": {
+      "checksum": "68b329da9893e34099c7d8ad5cb9c940"
+    },
+    "data_wrangling_files/libs/quarto-html/quarto-syntax-highlighting.css": {
+      "checksum": "ab2b9e94a89b131e869fd951d6355545"
+    },
+    "data_wrangling_files/libs/quarto-html/tabby.min.js": {
+      "checksum": "c4219bb6375131a945d7e4bfc49c5f35"
+    },
+    "data_wrangling_files/libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "data_wrangling_files/libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "data_wrangling_files/libs/quarto-ojs/quarto-ojs-runtime.js": {
+      "checksum": "18a7c9f39c1a1b82b4f0b1c72d5f6c0d"
+    },
+    "data_wrangling_files/libs/quarto-ojs/quarto-ojs.css": {
+      "checksum": "8645f556f692a33c4645eeb25d3d4122"
+    },
+    "data_wrangling_files/libs/revealjs/dist/reset.css": {
+      "checksum": "4042c1a43777d540673cabc97cec67b2"
+    },
+    "data_wrangling_files/libs/revealjs/dist/reveal.css": {
+      "checksum": "b8181fffa0a3e6754be1fa355f7532b3"
+    },
+    "data_wrangling_files/libs/revealjs/dist/reveal.esm.js": {
+      "checksum": "820aa60cc9bfdee16a52b87fa56f782c"
+    },
+    "data_wrangling_files/libs/revealjs/dist/reveal.esm.js.map": {
+      "checksum": "e34e6f40268baa4bbaf5381322b0dc35"
+    },
+    "data_wrangling_files/libs/revealjs/dist/reveal.js": {
+      "checksum": "48b5fa2ff068f5e48b1be50a0fa166e9"
+    },
+    "data_wrangling_files/libs/revealjs/dist/reveal.js.map": {
+      "checksum": "b898d2d44f77fb1492a9be733a5d3c5b"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/league-gothic/league-gothic.css": {
+      "checksum": "488966d15e97f072801d7e348f4b5141"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/league-gothic/league-gothic.eot": {
+      "checksum": "9900a4643cc63c5d8f969d2196f72572"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/league-gothic/league-gothic.ttf": {
+      "checksum": "91295fa87df918411b49b7531da5d558"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/league-gothic/league-gothic.woff": {
+      "checksum": "cd382dc8a9d6317864b5810a320effc5"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/league-gothic/LICENSE": {
+      "checksum": "8fac5842e2f5a2e6bc067f5beb5035c9"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/LICENSE": {
+      "checksum": "8ea3e41b02e9f465515dad7c89459c5b"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.eot": {
+      "checksum": "72217712eb8d28872e7069322f3fda23"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.ttf": {
+      "checksum": "8256cfd7e4017a7690814879409212cd"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.woff": {
+      "checksum": "e74f0128884561828ce8c9cf5c284ab8"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.eot": {
+      "checksum": "1d71438462d532b62b05cdd7e6d7197d"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.ttf": {
+      "checksum": "2da39ecf9246383937da11b44b7bd9b4"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.woff": {
+      "checksum": "e7acc589bb558fe58936a853f570193c"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.eot": {
+      "checksum": "0f3da1edf1b5c6a94a6ad948a7664451"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.ttf": {
+      "checksum": "f3565095e6c9158140444970f5a2c5ed"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.woff": {
+      "checksum": "1cb8e94f1185f1131a0c895165998f2b"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.eot": {
+      "checksum": "58153ac7194e141d1e73ea88c6b63861"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.ttf": {
+      "checksum": "c7e698a4d0956f4a939f42a05685bbf5"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.woff": {
+      "checksum": "6b058fc2634b01d837c3432316c3141f"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro.css": {
+      "checksum": "b4b58710f05264a4011912211d0a9eed"
+    },
+    "data_wrangling_files/libs/revealjs/dist/theme/quarto.css": {
+      "checksum": "8aef6e638e8b979b6bd15fc6b495f5a9"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/highlight/highlight.esm.js": {
+      "checksum": "5abbd1f8ee249ae0d6c80408d2081dbb"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/highlight/highlight.js": {
+      "checksum": "e42092622b9ca4e1de619e58c9aa5335"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/highlight/monokai.css": {
+      "checksum": "8c43a819e1268fc57605f500adff816b"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/highlight/plugin.js": {
+      "checksum": "e50d6f6f20e1469edffd935d2cce0288"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/highlight/zenburn.css": {
+      "checksum": "28d5b9497037a12cb5a15644fea2f1c3"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/markdown/markdown.esm.js": {
+      "checksum": "680040ad1bdd81925b8540ee31f8f00b"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/markdown/markdown.js": {
+      "checksum": "1c65f0419784a4f6efb66077b73f6171"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/markdown/plugin.js": {
+      "checksum": "472e5a4bf0e0ddf7e03616675ceaccf0"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/math/katex.js": {
+      "checksum": "2a22abd1eb5a1c923f2d41178427715a"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/math/math.esm.js": {
+      "checksum": "2362e49689e5b8b1ad56421519f04b9f"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/math/math.js": {
+      "checksum": "d505146667f3a21cad572818229d7578"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/math/mathjax2.js": {
+      "checksum": "c1ea64afa05c3677d2c404755193b2be"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/math/mathjax3.js": {
+      "checksum": "faf5422ce0f2c9be5eec33164bed8031"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/math/plugin.js": {
+      "checksum": "ec9cb99b85a8026d24b26526f6effe0d"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/notes/notes.esm.js": {
+      "checksum": "5521f88f0a2793da2523a93342cc5881"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/notes/notes.js": {
+      "checksum": "1843550642852655b8dc0f639b2d7b2f"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/notes/plugin.js": {
+      "checksum": "701c19b5c0bec23297d19d9fec682c29"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/notes/speaker-view.html": {
+      "checksum": "fd6bbea4e158ee48ec77bbc44a162078"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/pdf-export/pdfexport.js": {
+      "checksum": "877fade43edbda847ff6fc722b6be5f6"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/pdf-export/plugin.yml": {
+      "checksum": "76add7202812cd14a48ca57b96777de4"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css": {
+      "checksum": "4ba6b644b711bc2fc89389d78209da6d"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.js": {
+      "checksum": "2a5d4d07fe940a2a0d78aced7b94ab36"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/quarto-line-highlight/plugin.yml": {
+      "checksum": "4af9468c1cc516c6b54c12e686ba708f"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/quarto-support/footer.css": {
+      "checksum": "b756f7eedcfd9b82421dd144f0ef7578"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/quarto-support/plugin.yml": {
+      "checksum": "4f79b4a104bed30cd5b7b49d598bed88"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/quarto-support/support.js": {
+      "checksum": "b6aa412b14fbe4c3352b98dea9b8c2d2"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/reveal-menu/menu.css": {
+      "checksum": "1b9988f08dfe354c44e134304b3df8af"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/reveal-menu/menu.js": {
+      "checksum": "8db4f7eb4ad5670e6be4bdf83c389ca2"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/reveal-menu/plugin.yml": {
+      "checksum": "b949d3d3d5bdf5b5f508e6bfb328798e"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css": {
+      "checksum": "c8715037656f6595dbc3d9145fc7d8ac"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js": {
+      "checksum": "f911441bee5a8cd7635fe683fec20cdd"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/search/plugin.js": {
+      "checksum": "032f7408cd38991c3bd861582dd6322d"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/search/search.esm.js": {
+      "checksum": "5a4865036188db6309eec77fb9b9fd41"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/search/search.js": {
+      "checksum": "1d91bc7e321fae581fb65f502ef4ecd0"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/zoom/plugin.js": {
+      "checksum": "75d50a8cac0d19f0824a1c5876d36673"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/zoom/zoom.esm.js": {
+      "checksum": "b425222ed9d03cad024acb201af632ec"
+    },
+    "data_wrangling_files/libs/revealjs/plugin/zoom/zoom.js": {
+      "checksum": "dbab999c1a2fe1f31046733759dd1e2b"
+    },
+    "data_wrangling.html": {
+      "checksum": "903c9e2ccd72d7c3b0a137a58f067bfa"
+    },
+    "data_wrangling.qmd": {
+      "checksum": "b6495dffd9ccd6311081ca71124013ad"
+    },
+    "experiment.R": {
+      "checksum": "fb0baf0628818e8a588e67e4264414f6"
+    },
+    "pilotage_services.csv": {
+      "checksum": "c90cd181191729b7ceece77959f642bd"
+    }
+  },
+  "users": null
+}
