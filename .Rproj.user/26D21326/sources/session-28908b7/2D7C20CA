@@ -1,27 +1,27 @@
 {
-    "id": "13DF8F5C",
+    "id": "2D7C20CA",
     "path": "~/Desktop/MagicPort/data_wrangling/experiment.R",
     "project_path": "experiment.R",
     "type": "r_source",
-    "hash": "2704272572",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1726040178476.0,
+    "created": 1726059193627.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,27",
+        "cursorPosition": "7,13",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1726040184,
+    "lastKnownWriteTime": 1726059248,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1726040184858,
+    "last_content_update": 1726059248094,
     "read_only": false,
     "read_only_alternatives": []
 }

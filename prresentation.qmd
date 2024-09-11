@@ -1,0 +1,52 @@
+---
+title: "Data Wrangling in R & Python"
+format: revealjs
+editor: visual
+---
+
+
+## Outline
+
+-   Understanding data
+
+-   Data Cleaning/Transformation
+
+-   Handling Missing Data
+
+-   Data reshaping
+
+-   ETL pipelines
+
+# Understanding data
+
+## Pilotage Services - Sample
+
+```{r}
+library(tidyverse)
+library(gt)
+df <- read_csv("pilotage_services_sample.csv")
+
+# gt object
+table <- gt(df) %>%
+  tab_header(
+    title = "Sample Table",
+    subtitle = "Demonstrating gt table"
+  )
+
+# rendered table
+table
+```
+
+
+## Pilotage Services - All
+
+```{r}
+#| echo: false
+library(visdat)
+df <- read_csv("pilotage_services.csv")
+df |> vis_dat(warn_large_data = FALSE)
+```
+
+
+
+
