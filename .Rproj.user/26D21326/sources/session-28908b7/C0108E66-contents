@@ -1,0 +1,74 @@
+---
+title: "Data Wrangling in R & Python"
+format: live-revealjs
+webr:
+  packages:
+    - tidyverse
+pyodide:
+  packages:
+    - pandas
+editor: visual
+engine: knitr
+---
+
+{{< include ./_extensions/r-wasm/live/_knitr.qmd >}}
+
+## Outline
+
+-   R/Python -\> WebR/Pyodide
+
+-   Understanding data
+
+-   Data Cleaning/Transformation
+
+-   Handling Missing Data
+
+-   Data reshaping
+
+# R/Python --> WebR/Pyodide
+
+## R/WebR
+
+```{webr}
+#| autorun: false
+#| min-lines: 6
+#| max-lines: 10
+
+
+runif(n = 10)
+
+
+```
+
+## Python/Pyodide
+
+```{pyodide}
+#| autorun: false
+#| min-lines: 6
+#| max-lines: 10
+
+
+import numpy as np
+
+
+np.random.rand(10)
+```
+
+
+
+# Data Cleaning/Transformation
+
+## Example data: pilotage services
+
+```{webr}
+#| autorun: false
+pilotage_services <- read_csv("pilotage_services.csv")
+pilotage_services |> head()
+```
+
+
+
+
+
+
+

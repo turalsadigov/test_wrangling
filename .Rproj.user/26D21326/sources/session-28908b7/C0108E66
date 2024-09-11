@@ -1,0 +1,31 @@
+{
+    "id": "C0108E66",
+    "path": "~/Desktop/MagicPort/data_wrangling/data_wrangling.qmd",
+    "project_path": "data_wrangling.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1726037117163.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "20,0",
+        "scrollLine": "5",
+        "rmdVisualModeLocation": "266:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1726058546,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1726058546448,
+    "read_only": false,
+    "read_only_alternatives": []
+}
